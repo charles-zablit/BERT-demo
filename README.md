@@ -27,3 +27,7 @@ pip install -r requirements.txt
 ## Fill Mask
 
 Ce notebook a pour but de montrer une utilisation très facile et rapide de BERT pour compléter les mots manquants dans les phrases.
+
+## Sentiment Analysis
+
+Ce notebook a pour but de démontrer les capacités de BERT pour faire des plongements de textes dans $R^n$ et la méthode du token `"[CLS]"` pour le sentiment analysis.
