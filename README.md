@@ -10,7 +10,7 @@
 
 # Installation
 
-Après avoir cloner/télécharger ce dépôt, vous pouvez créer un nouvel environnement virtuel Python avec:
+Après avoir cloné/téléchargé ce dépôt, vous pouvez créer un nouvel environnement virtuel Python avec:
 
 ```bash
 python3 -m venv venv && source venv/bin/activate
